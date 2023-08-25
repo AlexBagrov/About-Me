@@ -6,3 +6,7 @@
 :mortar_board: Прошёл курс data analyst на Яндекс Практикуме 
 
 :wrench: Познакомился и продолжаю ищучать Python, pandas, SQL, Tableau.
+
+----
+
+Мой телеграм: https://t.me/Rusblackhole
