@@ -5,7 +5,7 @@
 
 :mortar_board: Прошёл курс data analyst на Яндекс Практикуме 
 
-:wrench: Познакомился и продолжаю ищучать Python, pandas, SQL, Tableau.
+:wrench: Познакомился и продолжаю изучать Python, pandas, SQL, Tableau.
 
 ----
 
